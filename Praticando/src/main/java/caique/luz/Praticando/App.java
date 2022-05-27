@@ -14,7 +14,9 @@ public class App
         System.out.println( "TESTE" );
         System.out.println( "TESTE" );
         System.out.println( "TESTE" );
-        System.out.println( "TESTE" );
+        System.out.println( "TESTE 2" );
+        System.out.println( "TESTE 2" );
+        System.out.println( "TESTE 2" );
        
     }
 }
