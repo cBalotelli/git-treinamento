@@ -11,6 +11,10 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
+        System.out.println( "TESTE" );
+        System.out.println( "TESTE" );
+        System.out.println( "TESTE" );
+        System.out.println( "TESTE" );
+       
     }
 }
