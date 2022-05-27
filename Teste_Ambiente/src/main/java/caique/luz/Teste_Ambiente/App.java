@@ -15,8 +15,11 @@ public class App
         System.out.println("Teste commit");
         System.out.println("Teste commit");
         System.out.println("Teste commit");
-        
+        System.out.println("Teste commit");
+        System.out.println("Teste commit");
+        System.out.println("Teste commit");
         
         
         
     }
+  }
